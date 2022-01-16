@@ -1,0 +1,49 @@
+body {
+    /* background-color: burlywood; */
+    background-image: linear-gradient(to right, red, blue);
+}
+
+header img {
+    display: block;
+}
+
+.calc-border {
+    margin: 100px auto 0 auto;
+    border: 1px solid black;
+    width: 350px;
+    height: 580px;
+    display: block;
+    /* background-color: black; */
+    background-image: linear-gradient(blue, black);
+}
+
+.input-box {
+    width: 90%;
+    margin: 30px auto 0 auto;
+    height: 200px;
+}
+
+.inp {
+    width: 97.5%;
+    height: 97.5%;
+}
+
+.calc-btn {
+    padding: 0 0 8px 0;
+}
+
+.btn-border {
+    margin: 20px auto 0 20px;
+}
+
+.btn {
+    height: 55px;
+    width: 75px;
+    font-size: 25px;
+    background-color: azure;
+    border-radius: 50%;
+}
+
+.equal {
+    background-color: red;
+}
